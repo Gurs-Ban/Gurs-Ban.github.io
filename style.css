@@ -7,14 +7,14 @@ body {
   background-color: #0d3158;
   background-image: url(Folder/chip.svg);
   background-repeat: repeat;
-  background-size: 50px;
+  background-size: 200px;
 }
 
 .title {
   color: white;
   text-align: center;
   margin: 0 0 5px 0;
-  font-size: 202px;
+  font-size: 34px;
 }
 /* The shine on the card when you hover over it */
 /*
