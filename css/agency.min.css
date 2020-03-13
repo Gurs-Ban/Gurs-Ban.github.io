@@ -166,13 +166,13 @@ img::-moz-selection {
     position: absolute;
     top: -2px;
     left:-2px;
-    background-size: 400%;
+    background-size: 200%;
     z-index: -1;
     filter: blur(5px);
     width: calc(100% + 4px);
     height: calc(100% + 4px);
     animation: glowing 20s linear infinite;
-    opacity: 1;
+    opacity: 0;
     transition: opacity .3s ease-in-out;
     border-radius: 10px;
 }
@@ -184,7 +184,7 @@ img::-moz-selection {
 
 .btn-primary:active:after{
 	background: transparent;
-	color: #66ffff
+	color: #fff
 }
 
 .btn-primary:hover:before{
