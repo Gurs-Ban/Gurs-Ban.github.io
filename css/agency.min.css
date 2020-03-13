@@ -142,7 +142,6 @@ img::-moz-selection {
     height: calc(100% + 4px);
     animation: glowing 20s linear infinite;
     opacity: 0;
-    /*transition: opacity .3s ease-out;*/
     border-radius: 10px;
 }
 
