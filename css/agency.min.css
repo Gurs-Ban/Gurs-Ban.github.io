@@ -23,7 +23,7 @@ a:hover {
 }
 
 .text-primary {
-	color: #66ffff!important
+	color: #00ffff!important
 }
 
 h1,
@@ -395,7 +395,7 @@ header.masthead .intro-text .intro-heading {
 .portfolio-modal .modal-content {
 	padding: 100px 0;
 	text-align: center;
-	background-color: #66ffff;
+	background-color: #00ffff;
 }
 
 .portfolio-modal .modal-content h2 {
@@ -523,7 +523,7 @@ header.masthead .intro-text .intro-heading {
 	margin-left: 0;
 	text-align: center;
 	color: #fff;
-	border: 7px solid #66ffff;
+	border: 7px solid #00ffff;
 	border-radius: 100%;
 	background-color: #66ffff
 }
